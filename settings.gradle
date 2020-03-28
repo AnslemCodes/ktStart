@@ -1,0 +1,2 @@
+rootProject.name='StartngApp'
+include ':app'

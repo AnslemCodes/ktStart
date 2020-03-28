@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StartngApp</string>
+
+
+    <string name="Full_Name">Anslem Emeshindu</string>
+
+
+    <string name="Track">Mobile (Kotlin)</string>
+
+    <string name="Course">Java , Kotlin</string>
+    <string name="Slack_Username">Anslem</string>
+
+    <string name="Email">ansledozie@gmail.com</string>
+    <string name="name">Name :</string>
+    <string name="track">Track :</string>
+    <string name="email">Email :</string>
+    <string name="slack_username">Slack UserName :</string>
+</resources>
